@@ -1,4 +1,4 @@
-proc setinit.sas;
+proc setinit;
 run;
 proc product_status;
 run;
